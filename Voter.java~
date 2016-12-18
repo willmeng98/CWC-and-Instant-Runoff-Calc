@@ -1,0 +1,50 @@
+class Voter {
+  
+  private int[] order;
+  
+  
+  /**
+     * Constructor
+     *     
+     * @params a String names, int b number of axles, and double c weight of truck in pounds
+     */
+  public Voter(int number)
+  {
+    
+    this.order = a;
+    
+  }
+  /**
+     * Getter
+     *     
+     * @return int number of axles
+     */
+  
+  public int getAxles() {
+    
+    return axles;
+  }
+  
+   /**
+     * Getter
+     *     
+     * @return double weight of truck in pounds
+     */
+  public double getWeight()
+  {
+    return weight;
+  }
+  
+   /**
+     * Getter
+     *     
+     * @return String name of the truck
+     */
+  public String getModel()
+  {
+    
+    return name;
+  }
+  
+  
+}
