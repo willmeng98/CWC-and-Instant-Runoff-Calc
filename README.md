@@ -4,7 +4,7 @@ The Instant Runoff Voting System is one way of holding an election and is common
 
 On the other hand, the Condorcet Winner Criterion is one of the most basic criterions for holding what is considered a fair election. The Condorcet Winner is a candidate that will win against any other candidate in a head to head contest. However, the Condorcet Winner does not always exist and even when it does, it is not always elected by the Instant Runoff Voting System. 
 
-This program finds how often a Condorcet Winner is elected and how often an Instant Runoff Voting method will elected the Condorcet Winner in a given election with an inputed number of candidates and an inputed number of voters. 
+This program finds how often a Condorcet Winner exists and how often an Instant Runoff Voting method will elected the Condorcet Winner in a given election with an inputed number of candidates and an inputed number of voters. 
 
 One may also find additional information about my project in in Research.docx
 
